@@ -5,9 +5,9 @@ import requests
 import os
 import sys
 
-http_proxy  = "http://ishan.grover:JeQ2ETWV@202.141.80.24:3128"
-https_proxy = "https://ishan.grover:JeQ2ETWV@202.141.80.24:3128"
-ftp_proxy   = "ftp://ishan.grover:JeQ2ETWV@202.141.80.24:3128"
+http_proxy  = "http://JeQ2ETWV@202.141.80.24:3128"
+https_proxy = "https//JeQ2ETWV@202.141.80.24:3128"
+ftp_proxy   = "ftp://JeQ2ETWV@202.141.80.24:3128"
 
 proxyDict = { 
               "http"  : http_proxy, 
